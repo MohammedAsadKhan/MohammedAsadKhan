@@ -19,9 +19,7 @@ I am a Computer Science major at **Texas A&M University-Corpus Christi** special
 ---
 
 ### 🏅 Certifications:
-- ✅ **Google Cybersecurity Professional Certificate**
 - ✅ **CompTIA Security+**
-- ⏳ **CompTIA Network+** *(In Progress)*
 
 ---
 
