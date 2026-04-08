@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science major at **Texas A&M University-Corpus Christi** specializing in **Red Teaming** and **Cloud Security (AWS)**. My focus is on offensive security research, specifically identifying misconfigurations in cloud environments and exploiting binary vulnerabilities. I'm driven by the "break-to-build" philosophy—using adversary tactics to engineer more resilient systems.
+I am a Computer Science major at **Texas A&M University-Corpus Christi**. My focus is on offensive security research, specifically identifying misconfigurations in cloud environments and exploiting binary vulnerabilities. I'm driven by the "break-to-build" philosophy—using adversary tactics to engineer more resilient systems.
 
 ---
 
