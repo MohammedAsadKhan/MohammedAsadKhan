@@ -41,7 +41,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 #### 📖 [NCL Gymnasium Writeup]([https://github.com/MohammedAsadKhan/YOUR-REPO-LINK](https://github.com/MohammedAsadKhan/NCL-Gymnasium-Walkthrough))
 *A beginner-friendly guide to the National Cyber League Gymnasium, written for new ICS Club members at TAMUCC.*
 
-I was completely lost when I started competing in NCL last semester. No one handed me a roadmap, so I figured it out the hard way. Once I did, I wrote everything down so the next person wouldn't have to go through the same thing. If you're just getting started in CTFs and NCL, this is for you.
+I was completely lost when I started competing in the NCL during the Fall 2025 semester. No one handed me a roadmap, so I figured it out the hard way. Once I did, I wrote everything down so the next person wouldn't have to go through the same thing. If you're just getting started in CTFs and NCL, this is for you.
 
 ---
 
