@@ -10,6 +10,12 @@ I am a Computer Science major at **Texas A&M University-Corpus Christi**. My foc
 
 ### 🔐 Cybersecurity Projects:
 
+#### 🔐 [CipherShift](https://github.com/MohammedAsadKhan/caesar-cipher-analyzer)
+*Caesar and Vigenere Cipher Analyzer and Breaker*
+* **The Problem:** Every CTF has cipher challenges that eat up time, manually testing 25 Caesar shifts or jumping between CyberChef and dcode.fr mid-competition.
+* **The Solution:** A multi-cipher toolkit that auto-cracks Caesar and Vigenere ciphers using frequency analysis and IoC-based key detection, with a fast CLI built for CTF speed runs.
+* **Tech Stack:** `Python` | `Streamlit` | `Plotly` | `Frequency Analysis` | `Cryptanalysis`
+
 #### 🛡️ [HexGuard](https://github.com/MohammedAsadKhan/HexGuard) 
 *Automated Binary File Identification Tool*
 * **The Problem:** Adversaries often use file extension evasion (e.g., renaming `.exe` to `.jpg`) to bypass security filters in CTFs and real-world systems.
@@ -25,7 +31,8 @@ I am a Computer Science major at **Texas A&M University-Corpus Christi**. My foc
 
 ### 🚩 CTF & Competitions:
 - **PicoCTF** — Specialized in **Binary Exploitation**, **Cryptography**, and General Skills.
-- **National Cyber League (NCL)** — Ranked competitor focusing on Password Cracking, Web App Exploitation, and Enumeration.
+- - **National Cyber League (NCL)** — Ranked competitor focusing on Password Cracking, Web App Exploitation, and Enumeration.
+  - Spring 2026 Practice Game: Ranked 31st out of 7,276 competitors, top scorer from the TAMUCC ICS Club.
 
 ---
 
