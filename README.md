@@ -31,6 +31,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 
 ### 🚩 CTF & Competitions:
 - **PicoCTF** — Specialized in **Binary Exploitation**, **Cryptography**, and General Skills.
+  - March 2026: Ranked 489th out of 8,747 teams. Contributed 5,300 of the team's 11,900 points. Completed all challenges in Binary Exploitation, Forensics, General Skills, and Reverse Engineering.
 - - **National Cyber League (NCL)** — Ranked competitor focusing on Password Cracking, Web App Exploitation, and Enumeration.
   - Spring 2026 Practice Game: Ranked 31st out of 7,276 competitors, top scorer from the TAMUCC ICS Club.
 
