@@ -10,7 +10,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 
 ### 🔐 Cybersecurity Projects:
 
-#### 🔐 [CipherShift](https://github.com/MohammedAsadKhan/caesar-cipher-analyzer)
+#### 🔐 [CipherShift](https://github.com/MohammedAsadKhan/CipherShift)
 *Caesar and Vigenere Cipher Analyzer and Breaker*
 * **The Problem:** Every CTF has cipher challenges that eat up time, manually testing 25 Caesar shifts or jumping between CyberChef and dcode.fr mid-competition.
 * **The Solution:** A multi-cipher toolkit that auto-cracks Caesar and Vigenere ciphers using frequency analysis and IoC-based key detection, with a fast CLI built for CTF speed runs.
