@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science major at **Texas A&M University-Corpus Christi**. My focus is on offensive security research, specifically identifying misconfigurations in cloud environments and exploiting binary vulnerabilities. I'm driven by the "break-to-build" philosophy—using adversary tactics to engineer more resilient systems.
+Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I compete in CTFs and NCL, I build tools, and I believe the best way to learn security is to think like an attacker and build like a defender.
 
 ---
 
