@@ -12,7 +12,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 
 #### 🐕 [Cerberus](https://github.com/MohammedAsadKhan/cerberus)
 *NIST SP 800-63B Password Policy Auditor & Strength Analyzer*
-* **The Problem:** Everyone builds password strength checkers. Nobody audits the *policy* — weak password policies are what actually get companies breached, not individual weak passwords.
+* **The Problem:** Everyone builds password strength checkers. Nobody audits the *policy* - weak password policies are what actually get companies breached, not individual weak passwords.
 * **The Solution:** A CLI tool that benchmarks organizational password policies against NIST SP 800-63B, scores them 0–100%, flags violations with real breach statistics, checks individual passwords against 550M+ compromised credentials via HaveIBeenPwned, and exports professional PDF audit reports — written for both technical teams and non-technical stakeholders.
 * **Tech Stack:** `Go` | `Cobra` | `HaveIBeenPwned API` | `NIST SP 800-63B` | `gofpdf` | `GitHub Actions`
 
@@ -38,7 +38,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 🚩 CTF & Competitions:
 
 * **National Cyber League (NCL)** — Ranked competitor focusing on Password Cracking, Web App Exploitation, and Enumeration.
-   * Spring 2026: Individual Game — **55/6,998 (Top 0.78%)** | Practice Game — **31/7,276** | Top scorer from the TAMUCC ICS Club. Team Game — *coming soon.*
+   * Spring 2026: Individual Game — **55/6,998 (Top 0.78%)** | Practice Game - **31/7,276** Top scorer from the TAMUCC ICS Club. Team Game - *coming soon.*
 
 * **PicoCTF** — Specialized in Binary Exploitation, Cryptography, and General Skills.
    * March 2026: Ranked **489th out of 8,747 teams**. Contributed 5,300 of the team's 11,900 points. Completed all challenges in Binary Exploitation, Forensics, General Skills, and Reverse Engineering.
