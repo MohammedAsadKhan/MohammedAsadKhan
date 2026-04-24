@@ -13,7 +13,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 #### 🐕 [Cerberus](https://github.com/MohammedAsadKhan/cerberus)
 *NIST SP 800-63B Password Policy Auditor & Strength Analyzer*
 * **The Problem:** Everyone builds password strength checkers. Nobody audits the *policy* - weak password policies are what actually get companies breached, not individual weak passwords.
-* **The Solution:** A CLI tool that benchmarks organizational password policies against NIST SP 800-63B, scores them 0–100%, flags violations with real breach statistics, checks individual passwords against 550M+ compromised credentials via HaveIBeenPwned, and exports professional PDF audit reports — written for both technical teams and non-technical stakeholders.
+* **The Solution:** A CLI tool that benchmarks organizational password policies against NIST SP 800-63B, scores them 0–100%, flags violations with real breach statistics, checks individual passwords against 550M+ compromised credentials via HaveIBeenPwned, and exports professional PDF audit reports written for both technical teams and non-technical stakeholders.
 * **Tech Stack:** `Go` | `Cobra` | `HaveIBeenPwned API` | `NIST SP 800-63B` | `gofpdf` | `GitHub Actions`
 
 #### 🔐 [CipherShift](https://github.com/MohammedAsadKhan/CipherShift)
