@@ -32,6 +32,7 @@ Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I comp
 
 ### 🏅 Certifications:
 - ✅ **CompTIA Security+**
+- ✅ **AWS Certified AI Practitioner**
 
 ---
 
