@@ -34,13 +34,22 @@ CS senior at Texas A&M University-Corpus Christi (cybersecurity concentration, g
 
 ## Tools & Technologies
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F2C94C?style=flat-square&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
-<!-- Add or remove badges as your stack grows -->
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-555555?style=flat-square)
+
+</div>
+
+<!-- Add or remove badges as your stack grows. Copy any badge line above and change the name and color. -->
 
 <!--
 ==================== FUTURE SECTIONS ====================
