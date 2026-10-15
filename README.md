@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Cybersecurity;Cloud+Security;AI+Security" alt="Cybersecurity, Cloud Security, AI Security" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mohamm3dasadkhan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedasadkhan04@gmail.com)
+[![Email](https://img.shields.io/badge/mohammedasadkhan04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedasadkhan04@gmail.com)
 <!-- RESUME: uncomment and add a link when ready
 [![Resume](https://img.shields.io/badge/Resume-333333?style=for-the-badge)](LINK)
 -->
