@@ -44,8 +44,8 @@ CS senior at Texas A&M University-Corpus Christi (cybersecurity concentration, g
 ![Loki](https://img.shields.io/badge/Loki-F2C94C?style=flat-square&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-555555?style=flat-square)
+![ChatGPT Codex](https://img.shields.io/badge/ChatGPT_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Nous Research Hermes](https://img.shields.io/badge/Nous_Research_Hermes-555555?style=flat-square)
 
 </div>
 
