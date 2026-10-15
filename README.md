@@ -1,65 +1,73 @@
-# Hi, I'm Mohammed! 👋
-## 🎯 [Red Team Enthusiast](https://github.com/MohammedAsadKhan) | ☁️ [Cloud Security Explorer](https://github.com/MohammedAsadKhan) | 🎓 Student @ TAMUCC
+<div align="center">
+
+# Mohammed Asad Khan
+
+**Computer Science Student · Cybersecurity · Cloud Security · AI Security**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Cybersecurity;Cloud+Security;AI+Security" alt="Cybersecurity, Cloud Security, AI Security" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mohamm3dasadkhan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedasadkhan04@gmail.com)
+<!-- RESUME: uncomment and add a link when ready
+[![Resume](https://img.shields.io/badge/Resume-333333?style=for-the-badge)](LINK)
+-->
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
-Junior at TAMUCC studying Computer Science with a focus in cybersecurity. I compete in CTFs and NCL, I build tools, and I believe the best way to learn security is to think like an attacker and build like a defender.
+## About Me
+
+CS senior at Texas A&M University-Corpus Christi (cybersecurity concentration, graduating May 2027). I work in IT, compete in cybersecurity competitions, and build security tools, with a growing focus on cloud and AI security.
+
+**Open to:** internships and entry-level roles in cybersecurity, cloud security, and IT.
 
 ---
 
-### 🔐 Cybersecurity Projects:
+## Certifications
 
-#### 🐕 [Cerberus](https://github.com/MohammedAsadKhan/cerberus)
-*NIST SP 800-63B Password Policy Auditor & Strength Analyzer*
-* **The Problem:** Everyone builds password strength checkers. Nobody audits the *policy* - weak password policies are what actually get companies breached, not individual weak passwords.
-* **The Solution:** A CLI tool that benchmarks organizational password policies against NIST SP 800-63B, scores them 0–100%, flags violations with real breach statistics, checks individual passwords against 550M+ compromised credentials via HaveIBeenPwned, and exports professional PDF audit reports written for both technical teams and non-technical stakeholders.
-* **Tech Stack:** `Go` | `Cobra` | `HaveIBeenPwned API` | `NIST SP 800-63B` | `gofpdf` | `GitHub Actions`
-
-#### 🔐 [CipherShift](https://github.com/MohammedAsadKhan/CipherShift)
-*Caesar and Vigenere Cipher Analyzer and Breaker*
-* **The Problem:** Every CTF has cipher challenges that eat up time, manually testing 25 Caesar shifts or jumping between CyberChef and dcode.fr mid-competition.
-* **The Solution:** A multi-cipher toolkit that auto-cracks Caesar and Vigenere ciphers using frequency analysis and IoC-based key detection, with a fast CLI built for CTF speed runs.
-* **Tech Stack:** `Python` | `Streamlit` | `Plotly` | `Frequency Analysis` | `Cryptanalysis`
-
-#### 🛡️ [HexGuard](https://github.com/MohammedAsadKhan/HexGuard) 
-*Automated Binary File Identification Tool*
-* **The Problem:** Adversaries often use file extension evasion (e.g., renaming `.exe` to `.jpg`) to bypass security filters in CTFs and real-world systems.
-* **The Solution:** A Python-based tool that ignores the extension and reads **Magic Bytes** (File Signatures) at the binary level to identify the true file type.
-* **Tech Stack:** `Python` | `Binary Analysis` | `Digital Forensics`
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge)
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge)
 
 ---
 
-### 🏅 Certifications:
-- ✅ **CompTIA Security+**
-- ✅ **AWS Certified AI Practitioner**
+## Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
+<!-- Add or remove badges as your stack grows -->
+
+<!--
+==================== FUTURE SECTIONS ====================
+Uncomment and fill in when ready.
 
 ---
 
-🚩 CTF & Competitions:
+## Featured Projects
 
-* **National Cyber League (NCL)** - Ranked competitor focusing on Password Cracking, Web App Exploitation, and Enumeration.
-   * Spring 2026: Individual Game - **55/6,998 (Top 0.78%)** | Practice Game - **31/7,276** Top scorer from the TAMUCC ICS Club. Team Game - 19/3698(Top 0.5%) MVP from the TAMUCC ICS Club** 
-
-* **PicoCTF** - Specialized in Binary Exploitation, Cryptography, and General Skills.
-   * March 2026: Ranked **489th out of 8,747 teams**. Contributed 5,300 of the team's 11,900 points. Completed all challenges in Binary Exploitation, Forensics, General Skills, and Reverse Engineering.
+| Project | Description | Tech |
+|---|---|---|
+| [Name](LINK) | One sentence on the problem it solves. | Stack |
 
 ---
 
-### 📝 Writeups & Resources:
-#### 📖 [NCL Gymnasium Writeup]([https://github.com/MohammedAsadKhan/YOUR-REPO-LINK](https://github.com/MohammedAsadKhan/NCL-Gymnasium-Walkthrough))
-*A beginner-friendly guide to the National Cyber League Gymnasium, written for new ICS Club members at TAMUCC.*
+## Writeups
 
-I was completely lost when I started competing in the NCL during the Fall 2025 semester. No one handed me a roadmap, so I figured it out the hard way. Once I did, I wrote everything down so the next person wouldn't have to go through the same thing. If you're just getting started in CTFs and NCL, this is for you.
+- [Title](LINK): One sentence on what it covers.
+
+=========================================================
+-->
 
 ---
 
-### 🤳 Connect with me:
+<div align="center">
 
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=MohammedAsadKhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAsadKhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<br />
-
-[linkedin]: https://www.linkedin.com/in/mohamm3dasadkhan/
-[email]: mailto:mohammedasadkhan04@gmail.com
+</div>
